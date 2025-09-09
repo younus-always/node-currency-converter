@@ -1,7 +1,6 @@
 # 💱 Currency Converter CLI
 
-A simple Node.js command-line application to convert USD to various currencies using the ExchangeRate API
-.
+A simple Node.js command-line application to convert USD to various currencies using the ExchangeRate API.
 The app fetches real-time conversion rates and provides quick conversions with colored CLI outputs.
 
 ## 📑 Table of Contents
@@ -20,7 +19,7 @@ The app fetches real-time conversion rates and provides quick conversions with c
 
 - [Troubleshooting](#-troubleshooting)
 
-- [Contributing](#-contribution)
+- [Contributing](#-contributing)
 
 - [License](#-license)
 
@@ -40,10 +39,10 @@ The app fetches real-time conversion rates and provides quick conversions with c
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/currency_converter.git
-   cd currency_converter
-   ```
+```bash
+   git clone https://github.com/younus-always/node-currency-converter.git
+   cd node-currency_converter
+```
 
 2. Install dependencies:
 
@@ -53,9 +52,9 @@ npm install
 
 ## 🔑 Configuration
 
-3. Get a free API key from [ExchangeRate API.](https://www.exchangerate-api.com/ "Go to ExchangeRate API")
+1. Get a free API key from <a href="https://www.exchangerate-api.com" target="\_blank" title="Go to ExchangeRate API">ExchangeRate API.</a>
 
-4. Create a .env file in the project root:
+2. Create a .env file in the project root:
 
 ```bash
 EXCHANGERATE_API_KEY=your_api_key_here
@@ -101,9 +100,9 @@ USD, EUR, INR, BDT, GBP, ...
 
 ## 📦 Dependencies
 
-- [chalk](https://www.npmjs.com/package/chalk) CLI color styling
+- <a href="https://www.npmjs.com/package/chalk" target="\_blank"">chalk</a> CLI color styling
 
-- [dotenv](https://www.npmjs.com/package/dotenv) Environment variable management
+- <a href="https://www.npmjs.com/package/dotenv" target="\_blank"">dotenv</a> Environment variable management
 
 ## 🛠 Troubleshooting
 
@@ -113,7 +112,7 @@ USD, EUR, INR, BDT, GBP, ...
 
 - Unsupported currency code: The app will list valid currency codes.
 
-👥 Contributing
+## 👥 Contributing
 
 Contributions are welcome!
 
