@@ -52,7 +52,7 @@ npm install
 
 ## 🔑 Configuration
 
-1. Get a free API key from <a href="https://www.exchangerate-api.com" target="_blank" rel="noopener noreferrer" title="Go to ExchangeRate API">ExchangeRate API.</a>
+1. Get a free API key from [ExchangeRate API.](https://www.exchangerate-api.com "Go to ExchangeRate API")
 
 2. Create a .env file in the project root:
 
@@ -100,9 +100,9 @@ USD, EUR, INR, BDT, GBP, ...
 
 ## 📦 Dependencies
 
-- <a href="https://www.npmjs.com/package/chalk" target="_blank" rel="noopener noreferrer" title="View chalk on npm">chalk</a> CLI color styling
+- [chalk](https://www.npmjs.com/package/chalk "View chalk on npm") CLI color styling
 
-- <a href="https://www.npmjs.com/package/dotenv" target="_blank" rel="noopener noreferrer" title="View dotenv on npm">dotenv</a> Environment variable management
+- [dotenv](https://www.npmjs.com/package/dotenv "View dotenv on npm") Environment variable management
 
 ## 🛠 Troubleshooting
 
@@ -127,4 +127,5 @@ Contributions are welcome!
 ## 📜 License
 
 This project is licensed under the ISC License.
+
 
